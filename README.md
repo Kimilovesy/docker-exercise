@@ -9,4 +9,5 @@ to run the barplot:
 `docker-compose up app_barplot`
 
 to run the histogram
+
 `docker-compose up app_histogram`
